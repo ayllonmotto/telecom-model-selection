@@ -22,5 +22,8 @@ env/
 .DS_Store
 Thumbs.db
 
+# PyCharm / JetBrains
+.idea/
+
 # Mantener la documentación de la carpeta data
 !data/README.md
